@@ -1,0 +1,16 @@
+[
+    {
+        "title": "endlesslove",
+        "author": "hamza",
+        "year": "2024",
+        "genre": "our",
+        "read": true
+    },
+    {
+        "title": "shahsahab",
+        "author": "shah",
+        "year": "2022",
+        "genre": "myself",
+        "read": true
+    }
+]
